@@ -10,6 +10,8 @@ ROLE_CHOICE = (
 )
 
 
+from .Address import Address
+from .Neighborhood import Neighborhood
 from .City import City
 from .State import State
 from .DayWeek import DayWeek
