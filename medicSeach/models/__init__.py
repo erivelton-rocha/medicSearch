@@ -9,4 +9,10 @@ ROLE_CHOICE = (
     (3, 'Paciente')
 )
 
+
+from .City import City
+from .State import State
+from .DayWeek import DayWeek
+from .State import State
+from .Speciality import Speciality
 from .Profile import Profile
